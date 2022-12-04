@@ -1,0 +1,3 @@
+common组件包：
+
+channel中包含的是channel相关的组件
